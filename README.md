@@ -196,7 +196,7 @@ grunt.initConfig({
 ```
 
 - Todo: provide a way to prioritize routes. All priorities set the same. Possibly auto-adjust by depth?
-- Todo: provide a better last modification time. Currently all urls will have last modifications updated at the same time.
+- Todo: provide a better last modification time. Currently, all urls will have last modifications updated at the same time.
 
 #### Fragment Routing
 
